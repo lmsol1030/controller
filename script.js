@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $('in-btn').fadeOut('.fast');
+    $('id="in-btn" class="button').fadeOut('.fast');
 });
