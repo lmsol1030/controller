@@ -1,5 +1,5 @@
 $(document).ready(function(){
     $('in-btn').click(function(){
-    $('player').fadeOut('fast');
+    $('#player').fadeOut('fast');
     });
 });
